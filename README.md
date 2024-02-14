@@ -1,16 +1,3 @@
-# testapplication3isp9_21
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+</h1>3ИСП9-21</h1>
+## Краткое описание проекта
+<img width="579" alt="image" src="https://github.com/CaptainPolyana/FirstMobile9_21/assets/145181221/502433f7-e5bb-4486-bd31-763adae55247">
